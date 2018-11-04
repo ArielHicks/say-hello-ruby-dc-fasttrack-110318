@@ -2,7 +2,7 @@ def say_hello(name)
   puts "Hello #{name}!"
 end
 
-def say_hello_programmer
+def say_hello_programmer()
   puts "Hello Ruby Programmer!"
 end
 
